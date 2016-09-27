@@ -1,9 +1,8 @@
 @font-face {
 font-family:"DroidArabicKufiBold";
-src:url(/assets/fonts/droid-arabic-kufi/6afbe2c8257159c2fefd1b43cd951ba3/1b89eb34f74a02c0681727faadf48466/DroidArabicKufiBold.ttf) format("truetype");
+src:url(//fontlibrary.org/assets/fonts/droid-arabic-kufi/6afbe2c8257159c2fefd1b43cd951ba3/1b89eb34f74a02c0681727faadf48466/DroidArabicKufiBold.ttf) format("truetype");
 font-weight:700;
 font-style:normal
-
 }
 
 @font-face {
@@ -11,7 +10,6 @@ font-family:"DroidArabicKufiRegular";
 src:url(//fontlibrary.org/assets/fonts/droid-arabic-kufi/6afbe2c8257159c2fefd1b43cd951ba3/a9b030e29a35f523a137ee0175be419f/DroidArabicKufiRegular.ttf) format("truetype");
 font-weight:400;
 font-style:normal
-
 }
 
 @font-face {
@@ -19,7 +17,6 @@ font-family:"Droid Arabic Kufi";
 src:url(//fontlibrary.org/assets/fonts/droid-arabic-kufi/6afbe2c8257159c2fefd1b43cd951ba3/1b89eb34f74a02c0681727faadf48466/DroidArabicKufiBold.ttf) format("truetype");
 font-weight:700;
 font-style:normal
-
 }
 
 @font-face {
@@ -27,5 +24,4 @@ font-family:"Droid Arabic Kufi";
 src:url(//fontlibrary.org/assets/fonts/droid-arabic-kufi/6afbe2c8257159c2fefd1b43cd951ba3/a9b030e29a35f523a137ee0175be419f/DroidArabicKufiRegular.ttf) format("truetype");
 font-weight:400;
 font-style:normal
-
 }
