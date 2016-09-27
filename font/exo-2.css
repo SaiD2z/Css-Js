@@ -1,0 +1,254 @@
+@font-face {
+font-family:"Exo2Black";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/54b5ed4473f065e1d30b14672880b5b2/Exo2Black.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo2BlackItalic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/5497f49c8998e9818e1ab4e1f4d379bd/Exo2BlackItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo2Bold";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/67ab003dfa05d768db7d5c307c80b1e4/Exo2Bold.otf) format("opentype");
+font-weight:700;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo2BoldItalic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/ef7d8d5854234b113bced8e79dc6a144/Exo2BoldItalic.otf) format("opentype");
+font-weight:700;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo2ExtraBold";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/048dcab0a01ce3f3bc193e51bfc85345/Exo2ExtraBold.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo2ExtraBoldItalic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/edbaed8802495d879807e9356ab674ae/Exo2ExtraBoldItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo2ExtraLight";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/bc951a3ff3d5df08f94280b2b529d4b4/Exo2ExtraLight.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo2ExtraLightItalic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/691988e86b04c7639e06295ba18e2f46/Exo2ExtraLightItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo2Italic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/7c5fa6238c5bb8cbad65d6d9be8d48d9/Exo2Italic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo2Light";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/0de9e16ddeef7c494d05716360896f66/Exo2Light.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo2LightItalic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/02957ec5fb8db2083284f002104c3e44/Exo2LightItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo2Medium";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/8d9de41ac94e8a9eaf7372f2f0932ab2/Exo2Medium.otf) format("opentype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Exo2MediumItalic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/d2aa5521e0e633fc277d383c7a37255f/Exo2MediumItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo2Regular";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/af769842f4e7a1a525c04174145ec4e9/Exo2Regular.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo2SemiBold";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/b3182e9ba6d3bc59be42c5f6040c2b21/Exo2SemiBold.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo2SemiBoldItalic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/ac8dd3d2898af40aa8340b41aa94ffe8/Exo2SemiBoldItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo2Thin";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/d554ad1926199aadbf9f35660d004dfa/Exo2Thin.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo2ThinItalic";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/a7714fd8ac8d4249410c568081bdcee6/Exo2ThinItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/54b5ed4473f065e1d30b14672880b5b2/Exo2Black.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/5497f49c8998e9818e1ab4e1f4d379bd/Exo2BlackItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/67ab003dfa05d768db7d5c307c80b1e4/Exo2Bold.otf) format("opentype");
+font-weight:700;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/ef7d8d5854234b113bced8e79dc6a144/Exo2BoldItalic.otf) format("opentype");
+font-weight:700;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/048dcab0a01ce3f3bc193e51bfc85345/Exo2ExtraBold.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/edbaed8802495d879807e9356ab674ae/Exo2ExtraBoldItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/bc951a3ff3d5df08f94280b2b529d4b4/Exo2ExtraLight.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/691988e86b04c7639e06295ba18e2f46/Exo2ExtraLightItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/7c5fa6238c5bb8cbad65d6d9be8d48d9/Exo2Italic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/0de9e16ddeef7c494d05716360896f66/Exo2Light.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/02957ec5fb8db2083284f002104c3e44/Exo2LightItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/8d9de41ac94e8a9eaf7372f2f0932ab2/Exo2Medium.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/d2aa5521e0e633fc277d383c7a37255f/Exo2MediumItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/af769842f4e7a1a525c04174145ec4e9/Exo2Regular.otf) format("opentype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/b3182e9ba6d3bc59be42c5f6040c2b21/Exo2SemiBold.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/ac8dd3d2898af40aa8340b41aa94ffe8/Exo2SemiBoldItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/d554ad1926199aadbf9f35660d004dfa/Exo2Thin.otf) format("opentype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Exo 2";
+src:url(//fontlibrary.org/assets/fonts/exo-2/538ac351c1d0dc13b658625894646805/a7714fd8ac8d4249410c568081bdcee6/Exo2ThinItalic.otf) format("opentype");
+font-weight:400;
+font-style:italic
+}
