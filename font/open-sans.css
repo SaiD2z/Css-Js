@@ -1,0 +1,13 @@
+@font-face {
+font-family:"OpenSansYtoKRegular";
+src:url(//fontlibrary.org/assets/fonts/open-sans-y2k/3bb39be9fb9bc5b256d97897b8cd46a9/2e0442a53c0e3b7fdaea257642052e9b/OpenSansYtoKRegular.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+}
+
+@font-face {
+font-family:"Open Sans Y to K";
+src:url(//fontlibrary.org/assets/fonts/open-sans-y2k/3bb39be9fb9bc5b256d97897b8cd46a9/2e0442a53c0e3b7fdaea257642052e9b/OpenSansYtoKRegular.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+}
