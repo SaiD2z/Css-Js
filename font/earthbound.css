@@ -1,0 +1,47 @@
+@font-face {
+font-family:"EarthboundCondensedBold";
+src:url(//fontlibrary.org/assets/fonts/earthbound/10f28bae07964c08495c41d8e9c1869c/f78438b3026ea8dc9df3fb7898c895e0/EarthboundCondensedBold.otf) format("opentype");
+font-weight:700;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"EarthboundCondensedBoldItalic";
+src:url(//fontlibrary.org/assets/fonts/earthbound/10f28bae07964c08495c41d8e9c1869c/0bfd6dcbc959dcf788670f94faf59725/EarthboundCondensedBoldItalic.otf) format("opentype");
+font-weight:700;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"EarthboundRegular";
+src:url(//fontlibrary.org/assets/fonts/earthbound/10f28bae07964c08495c41d8e9c1869c/200b47c09dc329dca3051d49af0f9003/EarthboundRegular.otf) format("opentype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Earthbound";
+src:url(//fontlibrary.org/assets/fonts/earthbound/10f28bae07964c08495c41d8e9c1869c/f78438b3026ea8dc9df3fb7898c895e0/EarthboundCondensedBold.otf) format("opentype");
+font-weight:700;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Earthbound";
+src:url(//fontlibrary.org/assets/fonts/earthbound/10f28bae07964c08495c41d8e9c1869c/0bfd6dcbc959dcf788670f94faf59725/EarthboundCondensedBoldItalic.otf) format("opentype");
+font-weight:700;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Earthbound";
+src:url(//fontlibrary.org/assets/fonts/earthbound/10f28bae07964c08495c41d8e9c1869c/200b47c09dc329dca3051d49af0f9003/EarthboundRegular.otf) format("opentype");
+font-weight:400;
+font-style:normal
+
+}
