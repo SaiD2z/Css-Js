@@ -1,27 +1,27 @@
 @font-face {
 font-family:"DroidArabicNaskhBold";
-src:url(/assets/fonts/droid-arabic-naskh/fd4b27f3b16500224174d4930a24ddfc/0968720cd2bfeb792da963c918c4b9a6/DroidArabicNaskhBold.ttf) format("truetype");
+src:url(//fontlibrary.org/assets/fonts/droid-arabic-naskh/fd4b27f3b16500224174d4930a24ddfc/0968720cd2bfeb792da963c918c4b9a6/DroidArabicNaskhBold.ttf) format("truetype");
 font-weight:700;
 font-style:normal
 }
 
 @font-face {
 font-family:"DroidArabicNaskhRegular";
-src:url(/assets/fonts/droid-arabic-naskh/fd4b27f3b16500224174d4930a24ddfc/791f577ddc8e608ef0d842d070bcac23/DroidArabicNaskhRegular.ttf) format("truetype");
+src:url(//fontlibrary.org/assets/fonts/droid-arabic-naskh/fd4b27f3b16500224174d4930a24ddfc/791f577ddc8e608ef0d842d070bcac23/DroidArabicNaskhRegular.ttf) format("truetype");
 font-weight:400;
 font-style:normal
 }
 
 @font-face {
 font-family:"Droid Arabic Naskh";
-src:url(/assets/fonts/droid-arabic-naskh/fd4b27f3b16500224174d4930a24ddfc/0968720cd2bfeb792da963c918c4b9a6/DroidArabicNaskhBold.ttf) format("truetype");
+src:url(//fontlibrary.org/assets/fonts/droid-arabic-naskh/fd4b27f3b16500224174d4930a24ddfc/0968720cd2bfeb792da963c918c4b9a6/DroidArabicNaskhBold.ttf) format("truetype");
 font-weight:700;
 font-style:normal
 }
 
 @font-face {
 font-family:"Droid Arabic Naskh";
-src:url(/assets/fonts/droid-arabic-naskh/fd4b27f3b16500224174d4930a24ddfc/791f577ddc8e608ef0d842d070bcac23/DroidArabicNaskhRegular.ttf) format("truetype");
+src:url(//fontlibrary.org/assets/fonts/droid-arabic-naskh/fd4b27f3b16500224174d4930a24ddfc/791f577ddc8e608ef0d842d070bcac23/DroidArabicNaskhRegular.ttf) format("truetype");
 font-weight:400;
 font-style:normal
 }
