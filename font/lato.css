@@ -1,0 +1,287 @@
+@font-face {
+font-family:"LatoBlack";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/1233fdf19c04333c7f58af4eb8698452/LatoBlack.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoBlackItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/e0d428e2113a119814da366401ad3362/LatoBlackItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"LatoBold";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/eb9532033c2adf99b1314611b5e9cd0e/LatoBold.ttf) format("truetype");
+font-weight:700;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoBoldItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/01577cc25f44d5cd3451a5e0da715917/LatoBoldItalic.ttf) format("truetype");
+font-weight:700;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"LatoHairline";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/a2e8f8eef2ec2047a32e2d6a152a0311/LatoHairline.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoHairlineItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/2bbb788763716d2d716cfcb5bc3e92f1/LatoHairlineItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"LatoHeavy";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/093466c99afdd5e38cfe3062dbcbba6b/LatoHeavy.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoHeavyItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/bafcb4e83847db36fa96602c4abca98d/LatoHeavyItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"LatoItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/e0867c8fb91d45453b9d3a578b66dca8/LatoItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"LatoLight";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/90e1d3559ac52f7f0f77a86e1bfd632d/LatoLight.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoLightItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/7e9668b13f86893fb0a4a6e35965c107/LatoLightItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"LatoMedium";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/863b7dcd5ec2c3923122af25ce0f7e4c/LatoMedium.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoMediumItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/ba4dbd0809f13b78b621a042efaed7d5/LatoMediumItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"LatoRegular";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/3b9b99039cc0a98dd50c3cbfac57ccb2/LatoRegular.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoSemibold";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/3c6cfb1aebd888a0eb4c8fba94140fa6/LatoSemibold.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoSemiboldItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/c969278938eaacc998eab23bce2a1d0c/LatoSemiboldItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"LatoThin";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/eb1635403cd764912ca1e0af78735797/LatoThin.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"LatoThinItalic";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/29f53f3450c6691e4195d082647aa8ca/LatoThinItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/1233fdf19c04333c7f58af4eb8698452/LatoBlack.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/e0d428e2113a119814da366401ad3362/LatoBlackItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/eb9532033c2adf99b1314611b5e9cd0e/LatoBold.ttf) format("truetype");
+font-weight:700;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/01577cc25f44d5cd3451a5e0da715917/LatoBoldItalic.ttf) format("truetype");
+font-weight:700;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/a2e8f8eef2ec2047a32e2d6a152a0311/LatoHairline.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/2bbb788763716d2d716cfcb5bc3e92f1/LatoHairlineItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/093466c99afdd5e38cfe3062dbcbba6b/LatoHeavy.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/bafcb4e83847db36fa96602c4abca98d/LatoHeavyItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/e0867c8fb91d45453b9d3a578b66dca8/LatoItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/90e1d3559ac52f7f0f77a86e1bfd632d/LatoLight.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/7e9668b13f86893fb0a4a6e35965c107/LatoLightItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/863b7dcd5ec2c3923122af25ce0f7e4c/LatoMedium.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/ba4dbd0809f13b78b621a042efaed7d5/LatoMediumItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/3b9b99039cc0a98dd50c3cbfac57ccb2/LatoRegular.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/3c6cfb1aebd888a0eb4c8fba94140fa6/LatoSemibold.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/c969278938eaacc998eab23bce2a1d0c/LatoSemiboldItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/eb1635403cd764912ca1e0af78735797/LatoThin.ttf) format("truetype");
+font-weight:400;
+font-style:normal
+
+}
+
+@font-face {
+font-family:"Lato";
+src:url(//fontlibrary.org/assets/fonts/lato/29e379a6ecc1b86c96931fa6ce4b3b0c/29f53f3450c6691e4195d082647aa8ca/LatoThinItalic.ttf) format("truetype");
+font-weight:400;
+font-style:italic
+
+}
