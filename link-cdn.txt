@@ -1,0 +1,14 @@
+https://rawcdn.githack.com/SaiD2z/bootswatch/gh-pages/yeti/bootstrap.min.css
+
+
+
+
+https://rawcdn.githack.com/SaiD2z/html5shiv/master/dist/html5shiv.min.js
+https://rawcdn.githack.com/SaiD2z/Respond/master/dest/respond.min.js
+https://rawcdn.githack.com/SaiD2z/jquery/master/jquery.min.js
+https://rawcdn.githack.com/SaiD2z/bootstrap-sass/master/assets/javascripts/bootstrap.min.js
+https://rawcdn.githack.com/SaiD2z/DataTables/master/media/js/jquery.dataTables.min.js
+https://rawcdn.githack.com/SaiD2z/chartist-js/develop/dist/chartist.min.js
+https://rawcdn.githack.com/SaiD2z/JsBarcode/master/dist/barcodes/JsBarcode.code128.min.js
+
+
