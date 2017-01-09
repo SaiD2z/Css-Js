@@ -1,5 +1,5 @@
 https://rawcdn.githack.com/SaiD2z/bootswatch/gh-pages/yeti/bootstrap.min.css
-
+https://rawcdn.githack.com/SaiD2z/Font-Awesome/master/css/font-awesome.min.css
 
 
 
